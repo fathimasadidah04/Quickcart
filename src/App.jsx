@@ -1,3 +1,4 @@
+//App.js
 import Header from "./components/Header";
 import ProductList from "./components/ProductList";
 import "./styles/App.css";
